@@ -45,4 +45,4 @@ spec:
             path: /paciente
             port: 3000
           initialDelaySeconds: 15
-          preiodSeconds: 3
+          periodSeconds: 3
